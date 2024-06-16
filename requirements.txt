@@ -1,0 +1,6 @@
+openai
+python-dotenv
+langchain
+langchain_nvidia_ai_endpoints
+faiss-cpu
+PyPDF2
